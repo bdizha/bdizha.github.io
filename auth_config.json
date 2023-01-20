@@ -1,0 +1,8 @@
+{
+  "domain": "ng-employer.us.auth0.com",
+  "clientId": "IGKrUukL6JjxGp9slDh451uhgm3XHtCx",
+  "audience": "YOUR_API_IDENTIFIER",
+  "apiUri": "http://localhost:3001",
+  "appUri": "http://localhost:5000",
+  "errorPath": "/error"
+}
